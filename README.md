@@ -1,8 +1,8 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fahirmdz&show_icons=true&theme=tokyonight&style=centered)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fahirmdz&show_icons=true&theme=tokyonight#center)
 
-<style>
-img[src$="centered"] {
-  display:block;
-  margin: 0 auto;
+<style  type="text/css" rel="stylesheet">
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
 }
 </style>
